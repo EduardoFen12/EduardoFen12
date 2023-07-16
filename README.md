@@ -1,7 +1,7 @@
 ### Hi there! I'm Eduardo Garcia Fensterseifer 😄🖐
 
-- 🔭 I’m currently working on front-end 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.js
+- 🔭 I’m currently working on back-end 
+- 🌱 I’m currently learning PHP, MySQL and Python
  
  <div align="center">
   <a href="https://github.com/EduardoFen12">
@@ -15,6 +15,7 @@
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Edu-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
   ##
