@@ -1,7 +1,7 @@
 ### Hi there! I'm Eduardo Garcia Fensterseifer 😄🖐
 
-- 🔭 I’m currently working on back-end 
-- 🌱 I’m currently learning PHP, MySQL and Python
+- 🔭 I’m currently working on back-end and front-end
+- 🌱 I’m currently learning PHP, MySQL, JavaScript and Python
  
  <div align="center">
   <a href="https://github.com/EduardoFen12">
