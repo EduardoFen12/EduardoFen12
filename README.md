@@ -1,7 +1,7 @@
 ### Hi there! I'm Eduardo Garcia Fensterseifer 😄🖐
 
-- 🔭 I’m currently working with mobile
-- 🌱 I’m currently learning Swift
+- I'm a iOS Developer
+- Focus on Swift
  
  <div align="center">
   <a href="https://github.com/EduardoFen12">
