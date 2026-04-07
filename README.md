@@ -3,10 +3,11 @@
 - I'm a iOS Developer
 - Focus on Swift
  
- <div align="center">
+<div align="center">
   <a href="https://github.com/EduardoFen12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFen12&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFen12&layout=compact&langs_count=7&theme=blue-green"/>
+    <img height="180em" src="https://SEU_NOVO_LINK_DA_VERCEL.vercel.app/api?username=EduardoFen12&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://SEU_NOVO_LINK_DA_VERCEL.vercel.app/api/top-langs/?username=EduardoFen12&layout=compact&langs_count=7&theme=blue-green"/>
+  </a>
 </div>
   
  <div style="display: inline_block"><br>
